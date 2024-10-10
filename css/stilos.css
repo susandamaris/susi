@@ -1,0 +1,113 @@
+body{
+    background-color: rgb(70, 253, 86);
+}
+header{
+    display: flex;
+    font-size: 20px;
+    padding-top: 10px;
+    padding: 20px;
+}
+.logo{
+    float: left;
+    
+}
+h1{
+    padding-right: 80px;
+    padding-left: 40px;
+}
+td{
+    padding-right: 40px;
+}
+tr{
+    padding: 40px;
+}
+nav {
+   position: absolute;
+   right: 50px;
+}
+nav a {
+    color: black;
+    font-size: 17px;
+    text-decoration: none;
+    font-weight: 550;
+    margin-left: 50px;
+    transition: color 1ms;
+}
+nav a:hover{
+    color: rgb(85, 10, 155);
+    font-size: 20px;
+}
+.totoro{
+    background-color: rgba(14, 255, 195, 0.555);
+}
+article{
+    font-size: 20px;
+}
+.img1{
+    float: left;
+    margin-right: 15px;
+    width: 200px;
+    height: 180px;
+    margin: 10px;
+}
+.text1{
+    overflow: hidden;
+    text-align: left;
+    padding-top: 10px;
+}
+.img2{
+    float: right;
+    margin-left: 15px;
+    width: 200px;
+    height: 180px;
+    margin: 10px;
+}
+.text2{
+    overflow: hidden;
+    background-color: rgb(14, 156, 175);
+    text-align: left;
+}
+.img3{
+    float: left;
+    margin-right: 15px;
+    width: 200px;
+    height: 180px;
+}
+.text3{
+    overflow: hidden;
+    background-color: rgb(14, 156, 175);
+    text-align: left;
+}
+.img4{
+    float: right;
+    margin-left: 15px;
+    width: 200px;
+    height: 180px;
+}
+.text4{
+    overflow: hidden;
+    background-color: rgb(14, 156, 175);
+    text-align: left;
+}
+.img5{
+    float: left;
+    margin-right: 15px;
+    width: 200px;
+    height: 180px;
+}
+.text5{
+    overflow: hidden;
+    background-color: rgb(14, 156, 175);
+    text-align: left;
+}
+.img6{
+    float: right;
+    margin-left: 15px;
+    width: 200px;
+    height: 180px;
+}
+.text6{
+    overflow: hidden;
+    background-color: rgb(14, 156, 175);
+    text-align: left;  
+}
